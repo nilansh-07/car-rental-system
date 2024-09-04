@@ -1,0 +1,12 @@
+Project: Car Rental System
+
+Overview:
+This Java-based Car Rental System allows users to rent and return cars, managing the availability of vehicles and customer details. The system employs Object-Oriented Programming principles, including encapsulation to protect data, and provides a simple command-line interface for interaction.
+
+Key Components:
+
+Car Class: Represents the car entity with attributes such as car ID, brand, model, base price per day, and availability status.
+Customer Class: Encapsulates customer data, including customer ID and name.
+Rental Class: Handles the association between a car and a customer, along with the rental duration.
+CarRentalSystem Class: Manages the list of cars, customers, and rentals, providing methods for renting and returning cars.
+Main Class: Initializes the system with sample data and starts the user menu.
